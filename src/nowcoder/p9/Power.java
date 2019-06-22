@@ -1,5 +1,8 @@
 package nowcoder.p9;
 
+/**
+ 新添加注释，在gthub编辑器上
+*/
 public class Power {
         public double Power(double base, int exponent) {
         if (base == 0 && exponent < 0) {
