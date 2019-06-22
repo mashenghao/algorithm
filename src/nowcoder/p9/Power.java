@@ -3,7 +3,7 @@ package nowcoder.p9;
 /**
  新添加注释，在gthub编辑器上
 
- 这是在本地修改，验证解决冲突
+    自己更改，都不适用
 */
 public class Power {
         public double Power(double base, int exponent) {
