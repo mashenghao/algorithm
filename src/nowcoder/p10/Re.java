@@ -1,4 +1,4 @@
-package nowcoder.p9;
+package nowcoder.p10;
 
 /**
  * 剑指offer上考察的是扩展性，而不是这个什么鬼
