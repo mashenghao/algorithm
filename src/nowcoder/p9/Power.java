@@ -1,7 +1,7 @@
 package nowcoder.p9;
 
 /**
- 新添加注释，在gthub编辑器上
+ 新添加注释，在gthub编辑器上，第二是添加
 */
 public class Power {
         public double Power(double base, int exponent) {
